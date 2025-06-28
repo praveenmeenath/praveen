@@ -4,7 +4,7 @@
   
 [![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/praveenmeenath/praveen/main/7040981.jpg" alt="My Image" width="300"/>
+  <img src="https://github.com/praveenmeenath/praveen/main/7040981.jpg" alt="My Image" width="300"/>
 </div>
 
 
